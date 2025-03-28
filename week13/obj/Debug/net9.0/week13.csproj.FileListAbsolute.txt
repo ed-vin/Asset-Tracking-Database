@@ -1,0 +1,14 @@
+/Users/edvinullberg/mini-project-week-13/week13/bin/Debug/net9.0/week13
+/Users/edvinullberg/mini-project-week-13/week13/bin/Debug/net9.0/week13.deps.json
+/Users/edvinullberg/mini-project-week-13/week13/bin/Debug/net9.0/week13.runtimeconfig.json
+/Users/edvinullberg/mini-project-week-13/week13/bin/Debug/net9.0/week13.dll
+/Users/edvinullberg/mini-project-week-13/week13/bin/Debug/net9.0/week13.pdb
+/Users/edvinullberg/mini-project-week-13/week13/obj/Debug/net9.0/week13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/edvinullberg/mini-project-week-13/week13/obj/Debug/net9.0/week13.AssemblyInfoInputs.cache
+/Users/edvinullberg/mini-project-week-13/week13/obj/Debug/net9.0/week13.AssemblyInfo.cs
+/Users/edvinullberg/mini-project-week-13/week13/obj/Debug/net9.0/week13.csproj.CoreCompileInputs.cache
+/Users/edvinullberg/mini-project-week-13/week13/obj/Debug/net9.0/week13.dll
+/Users/edvinullberg/mini-project-week-13/week13/obj/Debug/net9.0/refint/week13.dll
+/Users/edvinullberg/mini-project-week-13/week13/obj/Debug/net9.0/week13.pdb
+/Users/edvinullberg/mini-project-week-13/week13/obj/Debug/net9.0/week13.genruntimeconfig.cache
+/Users/edvinullberg/mini-project-week-13/week13/obj/Debug/net9.0/ref/week13.dll
