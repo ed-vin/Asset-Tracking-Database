@@ -1,15 +1,12 @@
-# mini-project-week-13
-## Asset tracking database 
-### mini-project
+# mini-project-week-13  
+## Asset Tracking Database  
+### Mini Project
 
-Detta är ett system för att hantera tillgångar (assets), där användare kan lägga till tillgångar som bärbara datorer (laptops) och mobiler, samt spåra dessa tillgångar genom deras varumärke, modell, inköpsdatum, pris och tillhörande kontorslokation.
+This is a system for managing assets, where users can add assets such as laptops and mobile phones, and track these assets by their brand, model, purchase date, price, and associated office location.
 
-**Systemet gör det möjligt att:**
+**The system allows you to:**
 
-Lägg till nya tillgångar. (varumärke, modell, inköpsdatum, pris och tillhörande kontorslokation)
-
-Konvertera priset från USD till lokal valuta baserat på kontorslokationen.
-
-Visa en lista över alla tillgångar med konverterad valuta i tabellformat.
-
-Ändra färg i Konsolen beroende på datum för tillagd produkt (från klassen Asset och subklasserna: Laptop, Mobil)
+- Add new assets (brand, model, purchase date, price, and associated office location)  
+- Convert the price from USD to the local currency based on the office location  
+- Display a list of all assets with converted currency in a table format  
+- Change the console color depending on the date the product was added (from the `Asset` class and its subclasses: `Laptop`, `Mobile`)
