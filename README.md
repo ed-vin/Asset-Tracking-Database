@@ -1,6 +1,6 @@
-# mini-project-week-13  
-## Asset Tracking Database  
-### Mini Project
+#Asset Tracking Database  
+## Mini Project
+### C# .NET
 
 This is a system for managing assets, where users can add assets such as laptops and mobile phones, and track these assets by their brand, model, purchase date, price, and associated office location.
 
